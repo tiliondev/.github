@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tiliondev/fortress/main/docs/assets/dockerhub-banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/tiliondev/.github/main/profile/tilion-header.png" width="100%" alt="Tilion">
 
 # Tilion
 
